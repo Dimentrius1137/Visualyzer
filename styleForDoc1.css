@@ -1,0 +1,45 @@
+body{
+	background-color: #121212;
+}
+
+#logo{
+	background: red;
+	width: 100px;
+    min-height: 100px;
+	border-radius: 50%;
+	box-shadow:0 0 20px red;
+}
+
+#outer{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0%;
+	width: 100%;
+	min-height: 50vh;
+
+}
+
+.downloader{
+	color: white;
+	background-color: gray;
+	box-shadow:0 0 20px gray;
+}
+
+.show{
+	color: white;
+	background-color: gray;
+	box-shadow:0 0 20px gray;
+}
+
+.banner{
+	box-shadow:0 0 20px yellow;
+	background-color: yellow;
+	border-radius: 10px;
+	font-size: 30;
+}
+
+*{
+	font-family: Arial;
+	font-size: 18px;;
+}
